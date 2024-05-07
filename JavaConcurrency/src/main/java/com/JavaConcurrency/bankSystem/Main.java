@@ -1,4 +1,4 @@
-package JavaConcurrency.src.main.java.com.JavaConcurrency.BankSystem;
+package JavaConcurrency.src.main.java.com.JavaConcurrency.bankSystem;
 
 public class Main {
     public static void main(String[] args) {

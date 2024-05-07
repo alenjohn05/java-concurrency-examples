@@ -1,4 +1,4 @@
-package JavaConcurrency.src.main.java.com.JavaConcurrency.BankSystem;
+package JavaConcurrency.src.main.java.com.JavaConcurrency.bankSystem;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;

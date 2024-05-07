@@ -1,4 +1,4 @@
-package JavaConcurrency.src.main.java.com.JavaConcurrency.Threads;
+package JavaConcurrency.src.main.java.com.JavaConcurrency.threads;
 
 public class Main {
     private static double output;
