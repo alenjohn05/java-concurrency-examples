@@ -1,0 +1,28 @@
+From Simple English Wikipedia, the free encyclopedia
+
+Border police looking for illegal drugs with a specially trained dog: If they check every tenth car, they are taking an unbiased sample.
+For other uses, see Sampling.
+In statistics, a sample is part of a population. The sample is carefully chosen. It should represent the whole population fairly, without bias.
+
+When treated as a data set, a sample is often represented by capital letters such as 
+𝑋
+{\displaystyle X} and 
+𝑌
+{\displaystyle Y}, with its elements being represented in lowercase (e.g., 
+𝑥
+3
+{\displaystyle x_{3}}), and the sample size being represented by the letter 
+𝑛
+{\displaystyle n}.[1]
+
+The reason samples are needed is that populations may be so large that counting all the individuals may not be possible or practical. Therefore, solving a problem in statistics usually starts with sampling.[2] Sampling is about choosing which data to take for later analysis. As an example, suppose the pollution of a lake should be analysed for a study. Depending on where the samples of water were taken, the studies can have different results.
+
+As a general rule, samples need to be random. This means the chance or probability of selecting one individual is the same as the chance of selecting any other individual.
+
+In practice, random samples are always taken by means of a well-defined procedure. A procedure is a set of rules, a sequence of steps written down and exactly followed. Even so, some bias may remain in the sample. Consider the problem of designing a sample to predict the result of an election poll. All known methods have their problems, and the results of an election are often different from predictions based on a sample. If you collect opinions by using telephones, or by meeting people in the street, you won't ask people who don't answer phone calls or who don't walk on the street. Therefore, in cases like this a completely neutral sample is never possible.[3] In such cases a statistician will think about how to measure the amount of bias, and there are ways to estimate this.
+
+A similar situation occurs when scientists measure a physical property, say the weight of a piece of metal, or the speed of light.[4] If we weigh an object with sensitive equipment we will get minutely different results. No system of measurement is ever perfect. We get a series of estimates, each one being a measurement. These are samples, with a certain degree of error. Statistics is designed to describe error, and carry out analysis on this kind of data.
+
+There are different kinds of samples:
+
+A complete sample includes all the elements that have a given property.
